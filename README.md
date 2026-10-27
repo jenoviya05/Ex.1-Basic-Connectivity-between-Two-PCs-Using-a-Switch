@@ -50,19 +50,31 @@ Insert screenshots showing ping success, configuration, or simulation results.
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172859" src="https://github.com/user-attachments/assets/77b15e10-8e60-4116-a193-183647fc8bec" />
 
 
+
+
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172912" src="https://github.com/user-attachments/assets/befa6f5b-e041-44cb-9b8d-0ae47c5e6e57" />
+
+
 
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172959" src="https://github.com/user-attachments/assets/282ada28-44e3-4c79-8e29-4e8eb7d03bd2" />
 
+
+
 ## PING :
+
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172701" src="https://github.com/user-attachments/assets/f3fa179e-da8e-443e-ae5c-04a75fe032ac" />
 
 
+
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172734" src="https://github.com/user-attachments/assets/0b1f9898-85d8-484f-b0f6-663e091cdab9" />
 
+
+
 ## SWITCH CONFIG :
+
+
 
 <img width="1917" height="1078" alt="Screenshot 2026-10-27 172932" src="https://github.com/user-attachments/assets/dd6755d7-9526-4d90-a32c-c9331153e724" />
 
